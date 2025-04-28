@@ -1,6 +1,6 @@
 source :rubygems
 
-gem 'nokogiri'
+gem 'nokogiri', '>= 1.18.8'
 gem 'ruby-trello'
 
 gem 'grape'
